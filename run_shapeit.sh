@@ -8,6 +8,6 @@ options=$5
 out=$6
 
 
-/proj/uppstore2018180/work/jonas/shapeit4/bin/shapeit4 --effective-size "${Ne}" --input "${vcf}" --map "${map}" $options --region "${chr}" --output "${out}"
+shapeit4 --effective-size "${Ne}" --input "${vcf}" --map "${map}" $options --region "${chr}" --output "${out}"
 
 
