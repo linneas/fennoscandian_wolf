@@ -1,8 +1,8 @@
 # BASH COMMANDS FOR THE MANUSCRIPT 
-#"Whole-genome analyses show limited signs of dog introgression in the Fennoscandian wolf populations"
+#"Whole-genome analyses provide no evidence for dog introgression in Fennoscandian wolf populations"
 
 # NOTE THAT MOST PROGRAMS ARE RUN AS BATCH JOBS SUBMITTED TO A CLUSTER USING SLURM
-# (settings as number of nodes, requested time and memory are customized and needs to be tested/tweaked if run on other systems)
+# (settings as number of nodes, requested time and memory are customized and need to be tested/tweaked if run on other systems)
 
 
 ###################### SNP CALLING AND FILTERING ###############################
