@@ -1,6 +1,6 @@
 ### Scripts connected to the paper: 
 ## Whole‐genome analyses provide no evidence for dog introgression in Fennoscandian wolf populations 
-(doi:10.1111/eva.13151)
+(doi:10.1111/eva.13151, <https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13151>)
 
 All bash commands are found in the file COMMANDS_for_terminal.sh.
 Most software have been run as batch jobs submitted to a cluster using slurm. These are named run_someName.sh.
@@ -18,3 +18,8 @@ Extracts lines from a file where one or more columns match entries from a given 
 
 **summarizePCAdmixResultPerWindow.pl**
 Goes through the BED output of PCAdmix for multiple individuals and summarize the number of "DOGS" per window. 
+
+
+### Connected data:
+Raw data submitted to ENA with accession number PRJEB39198.
+VCF files (filtered final file, plus phased files from SHAPEIT) are accessible from Dryad: <https://doi.org/10.5061/dryad.8gtht76n6>
